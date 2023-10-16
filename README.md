@@ -9,7 +9,7 @@ This repository contains a collection of artificial intelligence and machine lea
 Description: Identify traffic signs using VGG16 architecture.
 
 - Technologies Used: VGG16 architecture
-- [Code](https://github.com/maiducbinh/AI-ML-learning-projects/tree/6b4093c1d1b6dea5309dc453f9c18e35250e213d/Traffic-signs-recognition)
+- [Code](https://github.com/maiducbinh/AI-ML-learning-projects/blob/main/Traffic-signs-recognition/VGG16.ipynb)
 - Results: Accuracy ~ 98%
 
 ## Getting Started
